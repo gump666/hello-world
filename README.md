@@ -1,2 +1,3 @@
 # hello-world
-gump's first repository.
+hi ,this is gump,
+I am having a good day.
